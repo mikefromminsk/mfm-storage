@@ -1,5 +1,5 @@
 <?php
-include_once "utils.php";
+require_once "utils.php";
 
 $filename = $_POST["filename"];
 $file = $_POST["file"];
